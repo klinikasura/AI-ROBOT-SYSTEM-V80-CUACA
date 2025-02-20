@@ -125,4 +125,3 @@ UPDATE TAMPILAN BARU
  TERIMA KASIH.
 
 **Full Changelog**: https://github.com/klinikasura/APLIKASI-V80/compare/8.0_(05022025-0800)...8.0_(06022025-0800)
-
